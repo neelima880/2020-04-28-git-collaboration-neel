@@ -12,3 +12,8 @@ git clone<URL>: download the repository fom the web to our computer
  - 'git branch <branch name>' : create a new branch
  - 'git switch <branch name>' : move to a new branch
    
+
+
+# pull request (online merge)
+
+ - pull request
